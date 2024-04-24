@@ -40,7 +40,6 @@ for i in range(10):
 plt.show()
 
 
-
 # PyTorch model to predict the number in the image
 class Model(nn.Module):
     def __init__(self):
